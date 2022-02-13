@@ -1,0 +1,14 @@
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\bin\Debug\netcoreapp3.1\IfElse1.exe
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\bin\Debug\netcoreapp3.1\IfElse1.deps.json
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\bin\Debug\netcoreapp3.1\IfElse1.runtimeconfig.json
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\bin\Debug\netcoreapp3.1\IfElse1.runtimeconfig.dev.json
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\bin\Debug\netcoreapp3.1\IfElse1.dll
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\bin\Debug\netcoreapp3.1\IfElse1.pdb
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\obj\Debug\netcoreapp3.1\IfElse1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\obj\Debug\netcoreapp3.1\IfElse1.AssemblyInfoInputs.cache
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\obj\Debug\netcoreapp3.1\IfElse1.AssemblyInfo.cs
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\obj\Debug\netcoreapp3.1\IfElse1.csproj.CoreCompileInputs.cache
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\obj\Debug\netcoreapp3.1\IfElse1.dll
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\obj\Debug\netcoreapp3.1\IfElse1.pdb
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\obj\Debug\netcoreapp3.1\IfElse1.genruntimeconfig.cache
+A:\Refraction 0.3.0\.NET visual studio projects\IfElse\IfElse1\obj\Debug\netcoreapp3.1\IfElse1.csproj.AssemblyReference.cache
